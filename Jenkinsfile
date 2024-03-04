@@ -8,7 +8,7 @@ pipeline {
 
       steps {
 
-        git branch: 'main', url: 'https://github.com/FabioSanMartin/testes-api-cy.git'
+        git branch: 'main', url: 'https://github.com/EBAC-QE/testes-e2e-ebac-shop.git'
 
       }
 
